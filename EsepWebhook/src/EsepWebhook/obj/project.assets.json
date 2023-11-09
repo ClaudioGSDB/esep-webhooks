@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+      "projectUniqueName": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
       "projectName": "EsepWebhook",
-      "projectPath": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+      "projectPath": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\EsepWebhook\\src\\EsepWebhook\\obj\\",
+      "outputPath": "C:\\Users\\Claudio\\Desktop\\CIS4930 - ESWEP\\Assignments\\Assignment 10\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Claudio\\AppData\\Roaming\\NuGet\\NuGet.Config"
